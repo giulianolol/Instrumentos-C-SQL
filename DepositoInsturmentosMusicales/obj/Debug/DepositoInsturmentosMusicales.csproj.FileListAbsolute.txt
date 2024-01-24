@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\bin\Debug\DepositoInsturmentosMusicales.exe.config
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\bin\Debug\DepositoInsturmentosMusicales.exe
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\bin\Debug\DepositoInsturmentosMusicales.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.wfrmAppDeposito.resources
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.exe
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\bin\Debug\Dominio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\bin\Debug\Dominio.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\obj\Debug\DepositoInsturmentosMusicales.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\bin\Debug\Negocio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\DepositoInsturmentosMusicales\bin\Debug\Negocio.pdb

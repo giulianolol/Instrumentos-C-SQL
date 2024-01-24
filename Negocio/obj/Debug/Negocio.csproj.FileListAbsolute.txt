@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\bin\Debug\Negocio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\bin\Debug\Dominio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrador\Desktop\Programacion\Curso C# Maxi Programa Nivel 2\DepositoInsturmentosMusicales\Negocio\obj\Debug\Negocio.pdb
